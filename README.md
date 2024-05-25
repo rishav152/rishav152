@@ -14,7 +14,7 @@
 
 -🖇 Follow me on LinkedIn
 
-- 😄 Pronouns: Her
+- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: Enjoying
 <!---
