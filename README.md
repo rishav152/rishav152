@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rishav
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning :- Web Developer,Hacking,Dsa,Cp,Python
+
 -🏫 2025 B.Tech. graduate from GU(Galgotias University), Greater Noida
 -💻 Former Web developer Intern at IBM, India
 -🙋‍ More about me: Visit my website 
