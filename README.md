@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning :- Web Developer,Hacking,Dsa,Cp,Python
 
--🏫 2025 B.Tech. ungraduate from GU(Galgotias University), Greater Noida
+-🏫 2025 B.Tech ungraduate from GU(Galgotias University), Greater Noida
 
 -💻 Former Web developer Intern at IBM, India
 
