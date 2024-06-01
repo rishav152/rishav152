@@ -8,7 +8,8 @@
 
 -💻 Former Web developer Intern at IBM, India
 
--🙋‍ More about me: Visit my website    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishav-k-602367284)"/></a>
+-🙋‍ More about me: Visit my website   <a href="https://www.linkedin.com/in/rishav-k-602367284/" alt="Rishav Tips Discussion & Support Server"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishav-k-602367284)"/></a>
 </p>
 
 -📹 Subscribe on YouTube Rishav
