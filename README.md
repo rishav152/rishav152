@@ -8,7 +8,7 @@
 
 -💻 Former Web developer Intern at IBM, India
 
--🙋‍ More about me: Visit my website 
+-🙋‍ More about me: Visit my website  <a href="https://www.linkedin.com/in/rishav-k-602367284/" alt="Rishav Tips Discussion & Support Server">
 
 -📹 Subscribe on YouTube Rishav
 
