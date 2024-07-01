@@ -1,27 +1,2 @@
-- 👋 Hi, I’m Rishav
+[Readme New.md](https://github.com/user-attachments/files/16057813/Readme.New.md)
 
-- 👀 I’m interested in Web Developer
-
-- 🌱 I’m currently learning :- Web Developer,Hacking,Dsa,Cp,Python
-
--🏫 2025 B.Tech ungraduate from GU(Galgotias University), Greater Noida
-
--💻 Former Web developer Intern at IBM, India
-
--🙋‍ More about me: Visit my website   
-
--🖇 Follow me on LinkedIn   <a href="https://www.linkedin.com/in/rishav-k-602367284/" alt="Rishav Tips Discussion & Support Server"> 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishav-k-602367284)"/></a>
-</p>    
-
--📹 Subscribe on YouTube Rishav [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rish_vlogs977)
-
-
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: Enjoying
-<!---
-rishav152/rishav152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
