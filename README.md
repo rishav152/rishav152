@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72B0F&random=false&width=435&lines=I+am+Rishav+Kumar+)](https://git.io/typing-svg)
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rishav152&label=Profile%20views&color=0e75b6&style=flat" alt="rishav152" /> </p>
+
+
 ###### Glad to see you here :heart:
 
 <!-- Typing SVG -->
